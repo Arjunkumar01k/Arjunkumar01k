@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Arjun Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
+
+![logo](https://github.com/Arjunkumar01k/Arjunkumar01k/blob/main/ak.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunkumar01k&label=Profile%20views&color=0e75b6&style=flat" alt="arjunkumar01k" /> </p>
 
