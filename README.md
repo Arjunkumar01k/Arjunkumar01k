@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![logo](https://github.com/Arjunkumar01k/Arjunkumar01k/blob/main/ak2.gif)
-<!--
+-->
+
 <h1 align="center">Hi 👋, I'm Arjun Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
--->
+
 <img align="right" alt="coding" width="400" src="https://github.com/Arjunkumar01k/Arjunkumar01k/blob/main/ak.gif">
 
 
