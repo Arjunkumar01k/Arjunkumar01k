@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![logo](https://github.com/Arjunkumar01k/Arjunkumar01k/blob/main/ak2.gif)
+<!--
 <h1 align="center">Hi 👋, I'm Arjun Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-
-![logo](https://github.com/Arjunkumar01k/Arjunkumar01k/blob/main/ak.gif)
+-->
+<img align="right" alt="coding" width="400" src="https://github.com/Arjunkumar01k/Arjunkumar01k/blob/main/ak.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunkumar01k&label=Profile%20views&color=0e75b6&style=flat" alt="arjunkumar01k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunkumar01k" alt="arjunkumar01k" /></a> </p>
+
 
 - 🔭 I’m currently working on [pfSense](https://youtu.be/Gxs3f8tjdfU?si=gwHiOGXFHoGjgIBj)
 
@@ -44,3 +46,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunkumar01k&show_icons=true&locale=en" alt="arjunkumar01k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunkumar01k&" alt="arjunkumar01k" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunkumar01k" alt="arjunkumar01k" /></a> </p>
+
